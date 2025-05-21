@@ -30,15 +30,15 @@ Thanks for stopping by and here is a little about myself
  
 
              
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on:
            Solutioning and creating a Amazon Quicksight analysis to analyze player information data and display their sensitive data using pre signed urls that will be active only for a minute using lambda functions and API gateway.
   
-- 🌱 I’m currently learning to explore
-            Different AI tools related to data and how they can help me in day to day work to make work efficient.
-            Exploring Microsoft Fabric 
+- 🌱 I’m currently learning to explore:
+            Different AI tools related to data and how they can help me in day to day work to make work efficient
+            ,Exploring Microsoft Fabric 
 
 
-- 📫 Heres how you can reach me out- [Linkedin](https://www.linkedin.com/in/neerajiyer)
+- 📫 Heres how you can reach me out: [Linkedin](https://www.linkedin.com/in/neerajiyer)
 
 
 
