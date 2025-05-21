@@ -5,8 +5,12 @@ Thanks for stopping by and here is a little about myself
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning to explore different AI tools related to data and how they can help me in day to day work to work efficiently.
+- 🔭 I’m currently working on
+           Solutioning and creating a Amazon Quicksight analysis to analyze player information data and display their sensitive data using pre signed urls that will be active only for a minute using lambda functions and API gateway.
+  
+- 🌱 I’m currently learning to explore
+            Different AI tools related to data and how they can help me in day to day work to make work efficient.
+            exploring Microsoft Fabric 
 
 
 - 💬 Ask me about ...
