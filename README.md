@@ -3,10 +3,8 @@ Thanks for stopping by and here is a little about myself
 
 - 😄 Pronouns: He/His/Him
 - Here are some of my blogs:
-
-  
-             blogs-  [Visualization-competition-NI-Medical-Analysis-Baker-Tilly](https://community.amazonquicksight.com/t/2023-h2-amazon-quicksight-partners-viz-challenge-winners/24144)
-blogs - [Amazon-Quicksight-best-practices](https://community.aws/content/2qtjtkhao6IdTyHrmDEVQublzcq/best-practices-for-amazon-quicksight)
+   [Visualization-competition-NI-Medical-Analysis-Baker-Tilly](https://community.amazonquicksight.com/t/2023-h2-amazon-quicksight-partners-viz-challenge-winners/24144)
+  [Amazon-Quicksight-best-practices](https://community.aws/content/2qtjtkhao6IdTyHrmDEVQublzcq/best-practices-for-amazon-quicksight)
 
              
 - 🔭 I’m currently working on
