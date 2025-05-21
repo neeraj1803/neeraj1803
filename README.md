@@ -1,6 +1,6 @@
 ## Hello I am Neeraj Iyer 👋
 Thanks for stopping by and here is a little about myself
-<!--
+
 **neeraj1803/neeraj1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: ...
--->
