@@ -26,7 +26,9 @@ Thanks for stopping by and here is a little about myself
   16) [BI-With-Amazon-Quicksight](https://www.bakertilly.com/insights/understanding-your-business-intelligence-with-amazon-quicksight)
  
 
-  
+- My published papers:
+     1) [Survey on metadata management schemes in HDFS](https://www.ijcsit.com/docs/Volume%205/vol5issue02/ijcsit20140502271.pdf)
+     2) [Survey on Online recommendation system using Web usage mining](https://www.ijcsit.com/docs/Volume%206/vol6issue02/ijcsit20150602121.pdf)
  
 
              
